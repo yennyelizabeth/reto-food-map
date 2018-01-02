@@ -1,4 +1,7 @@
 # CHIFA - FOOD
+
+![Inicio](assets/img/logo.png)
+
 > Prototipo de un aplicativo movil, que permitirá ubicar restaurantes catalogados como "CHIFA", de acuerdo
 al ingreso del nombre del distrito que realice el usuario, brindándole la posibilidad de consultar: 
 - Chifas : presenta los locales Chifa céntricos del distrito.
