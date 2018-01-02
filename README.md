@@ -19,7 +19,9 @@ comentarios.
 Clonar el Repositorio, utilizando los comandos git clone: [https://github.com/yennyelizabeth/reto-food-map.git]
 
 ## Ejemplo de uso
+
 - Las vistas de la demo tienen las siguientes secuencia de vistas:
+
 ![Inicio](assets/img/readme/img-index.png)
 ![Inicio](assets/img/readme/img-panel.png)
 ![Inicio](assets/img/readme/img-chifas.png)
@@ -27,7 +29,9 @@ Clonar el Repositorio, utilizando los comandos git clone: [https://github.com/ye
 
 
 ## Configuración de desarrollo
+
 La clonación debe generar la siguiente estructura:
+
 ![Inicio](assets/img/readme/directorio.png)
 ![Inicio](assets/img/readme/views.png)
 ![Inicio](assets/img/readme/vendor.png)
