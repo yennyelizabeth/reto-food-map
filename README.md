@@ -5,10 +5,6 @@ al ingreso del nombre del distrito que realice el usuario, brindándole la posib
 - Platos : presenta los platos más solicitados y los platos a la carta.
 - Conoce+ : presenta información ( histórica , comentarios referentes a los Chifas)
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 La aplicación movil propuesta tiene el objetivo de mostrar rápidamente la información relacionada a la
 ubicación de chifas cercanos, platos que se encuentran en un chifa e información relacionada a la historia,
 comentarios.
@@ -60,8 +56,3 @@ Distribuido bajo la licencia XYZ. Ver ``LICENSE`` para más información.
 
 [https://github.com/yennyelizabeth/reto-food-map](https://yennyelizabeth.github.io/reto-food-map/)
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
