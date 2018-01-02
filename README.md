@@ -39,6 +39,13 @@ La clonación debe generar la siguiente estructura:
 ![Inicio](assets/img/readme/css.png)
 ![Inicio](assets/img/readme/img.png)
 
+## Herramientas utilizadas
+
+* Javascript Vanila para la funcionalidad ( elaboración propia )
+* Bootstrap vs 3.3.7 para estilos y diseño responsive ( librería )
+* Css para los estilos ( elaboración propia )
+* Html Vs 5 para el marcado ( elaboración propia )
+* Visual Studio Code vs 1.18.1 para el desarrollo.
 
 ## Historial de versiones
 
